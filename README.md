@@ -93,7 +93,6 @@ Key design choices:
 ---
 
 ## Environment
-
 - Databricks (Community Edition)
 - PySpark / Spark SQL
 - Delta Lake concepts (logical)
@@ -106,15 +105,10 @@ Key design choices:
 
 ## Future Work
 Potential next steps building on this foundation include:
-
 - Advanced analytics and KPI development
-
 - Data quality checks and validation rules
-
 - Aggregated Gold tables for reporting
-
 - Feature engineering for time-based analysis
-
 - Machine learning use cases built on top of existing Gold tables
 (e.g. forecasting or anomaly detection)
 
