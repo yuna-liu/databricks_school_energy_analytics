@@ -56,9 +56,8 @@ Raw data is **never modified**.
 
 ---
 
-### Silver Layer: Dimension & Fact Tables
-
-Parsing is performed **table-driven**, without file-level for-loops.
+### 01_silver_dm_and_fact_tables.ipynb
+Silver Layer: Dimension & Fact Tables. Parsing is performed **table-driven**, without file-level for-loops.
 
 #### `silver.energy_header` (Dimension Table)
 
